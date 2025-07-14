@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +44,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+.env
+>>>>>>> 2f5b26e9c2b2fa16e1db24815d45b2b201f0c86b
